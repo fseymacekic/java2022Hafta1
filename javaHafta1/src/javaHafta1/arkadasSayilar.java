@@ -22,7 +22,7 @@ public class arkadasSayilar {
 		if (number1 == total2 && number2 == total1) {
 			System.out.println("Arkadaş Sayılar");
 		}else
-			System.out.println("Arkadaş Sayı Değiller");
+			System.out.println("Arkadaş Sayı Değil");
 			
 	}
 
