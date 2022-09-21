@@ -13,6 +13,7 @@ public class arkadasSayilar {
 				total1 = total1 +i;
 			
 		}
+		
 		for(int i=1;i<number2;i++) {
 			if(number2 % i ==0) {
 				total2 = total2 +i;
